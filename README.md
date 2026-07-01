@@ -58,6 +58,7 @@ text
 ---
 
 ##  Project Structure
+
 ecom-realtime-platform/
 ├── README.md
 ├── architecture.png
@@ -70,11 +71,7 @@ ecom-realtime-platform/
 │ ├── historical_data_loader.py
 │ └── streaming_producer.py
 ├── powerbi/
-│ └── ecom_dashboard.pbix
-└── screenshots/
-└── dashboard-demo.gif
-
-text
+  └── ecom_dashboard.pbix
 
 ---
 
