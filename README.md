@@ -55,7 +55,7 @@ text
 | Visualization          | Power BI Desktop (DirectQuery)                             |
 | Orchestration          | Databricks Workflows (scheduled job)                       |
 
----
+
 
 ##  Project Structure
 
@@ -73,7 +73,7 @@ ecom-realtime-platform/
 ├── powerbi/
   └── ecom_dashboard.pbix
 
----
+
 
 ### Dashboard
 <img width="3005" height="1145" alt="ecommerce_data_platform" src="https://github.com/user-attachments/assets/d90c78f3-cda9-4548-9365-f9187b7afcf2" />
