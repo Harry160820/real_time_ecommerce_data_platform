@@ -3,8 +3,6 @@ markdown
 
 **End‑to‑end analytics pipeline for an online marketplace — built with Azure, Databricks, and Power BI.**
 
-![Architecture](architecture.png)
-
 ---
 
 ##  Business Scenario
